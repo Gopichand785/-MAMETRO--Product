@@ -1,0 +1,78 @@
+h6{
+    text-align: center;
+    background-color:skyblue;
+}
+header,a{
+    text-align:center;
+
+}
+*{
+    box-sizing:border-box;
+}
+.menu{
+    width: 45%;
+    float: left;
+   padding: 15px;
+
+}
+.main{
+    width: 45%;
+  float: left;
+  padding: 15px;
+  height: 100%;
+  border: 1px solid white;
+};
+.main.div .sum p ,button{
+width: 300px;
+border: 1px solid blue;
+margin: 50px;
+padding: 20px;;
+border-radius: 25px
+}   
+h5.box{
+    width: 200px;
+    border: 3px solid whitesmoke;
+    padding: 30px;
+    margin: 10px;
+    height: 10px;
+
+  }
+  #gopi{
+    
+        width: 350px;
+        height: 10px;
+        border: 3px solid black;
+        padding: 30px;
+        margin: 10px;
+      text-align: center;
+  }
+  #html{
+    
+    width: 350px;
+    height: 10px;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 10px;
+  text-align: center;
+  background-color:darkslategrey;
+  
+  }
+  .css{
+    text-decoration: wavy;
+    text-transform: lowercase;
+    text-size-adjust: 2%;
+  }
+  .matri ,i{
+    display: left;
+    transform: none;
+    left: 25%;
+  }
+  body{
+    background-position: fixed;
+  }
+  button{
+    border-radius: 20px;
+  }
+button:active{
+    background-color: aqua;
+}
